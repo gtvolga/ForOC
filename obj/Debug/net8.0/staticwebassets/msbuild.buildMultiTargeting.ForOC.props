@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ForOC.props" />
+</Project>
